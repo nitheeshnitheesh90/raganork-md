@@ -1,8 +1,8 @@
 {
-  "name": "raganork-md", 
+  "name": "_swag_.sir_", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "_swag_.sir_ whatsapp bot- Multi device version.",
+  "main": "./_swag_.sir_/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
